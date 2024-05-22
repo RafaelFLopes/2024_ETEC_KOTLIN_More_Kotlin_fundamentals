@@ -1,2 +1,2 @@
-# 2024_ETEC_KOTLIN_More_Kotlin_fundamentals
+More Kotlin Fundamentals
 Android developer kotlin course module
